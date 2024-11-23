@@ -7,7 +7,7 @@
 💻 I have a strong passion for AI engineering and programming.
 
 🚀 My current focus is on:
-Optimizing machine learning models and learning more Neural networks.
+Optimizing machine learning models and learning more about Neural networks.
 
 Learning C/C++ to enhance my career in physics and artificial intelligence, with a focus on computational simulations and high-performance computing.
 
