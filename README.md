@@ -1,6 +1,6 @@
 ## Hey everyone, I'm Milena :)
 
-🎓 I’m a 3rd-year Physics student specializing in Data Mining in Physics and Artificial Intelligence.
+🎓 I’m a 4rd-year Physics student specializing in Data Mining in Physics and Artificial Intelligence.
 
 🏫 I’m part of the TUMOLabs Guided-Self-Learning program, where I’m diving deeper into Python and Machine Learning.
 Also I passed selection pool in 42 Yerevan and now I'm studying there as well.
