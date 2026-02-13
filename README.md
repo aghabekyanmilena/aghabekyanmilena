@@ -1,16 +1,9 @@
-## Hey everyone, I'm Milena :)
+👩‍💻 Hey everyone, I am Milena
 
-🎓 I’m a 4rd-year Physics student specializing in Data Mining in Physics and Artificial Intelligence.
+🏫 Physics student at Yerevan State University (YSU), specializing in Data Mining in Physics and Artificial Intelligence
 
-🏫 I’m part of the TUMOLabs Guided-Self-Learning program, where I’m diving deeper into Python and Machine Learning.
-Also I passed selection pool in 42 Yerevan and now I'm studying there as well.
+💻 I am student at 42 Yerevan 
 
-💻 I have a strong passion for AI engineering and programming.
+🚀 I focus on machine learning for dynamical systems, scientific computing, and AI-driven modeling. I approach problems with a strong mathematical foundation and aim to build stable, interpretable, and physically meaningful systems.
 
-🚀 My current focus is on:
-Optimizing machine learning models and learning more about Neural networks.
-Master programming and AI methods to use them in science.
-
-Learning C/C++ to enhance my career in physics and artificial intelligence, with a focus on computational simulations and high-performance computing.
-
-🔭 I love exploring the intersection of AI, physics, and data science, and I’m always eager to learn new technologies and solve challenging problems.
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
